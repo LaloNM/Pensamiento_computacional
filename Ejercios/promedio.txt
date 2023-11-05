@@ -1,0 +1,25 @@
+1 inicio
+2 declarar nombre(str)
+           promedio,cal1,cal2,cal3,cal4(float)
+           asistencias(int)
+           aprobado(bool)
+3 escribir "Ingresa el nombre del usuario"
+4 asignar nombre
+
+5 escribir "incgresa ingresa la primera calificacion"
+6 asignar cal1
+7 escribir "incgresa ingresa la segunda calificacion"
+8 asignar cal2
+9 escribir "incgresa ingresa la tercera calificacion"
+10 asignar cal3
+11 escribir "incgresa ingresa la cuarta calificacion"
+12 asignar cal4
+
+13 promedio = (cal1+cal2+cal3+cal4)/4
+
+14 escribir "ingresa el total de horas de asistencia"
+15 asignar asistencia
+
+16 escribir "Promedio de",nombre," : ",promedio
+17 escribir "aprobado : ",asistencia>=24 and promedio >=7
+18 fin  
