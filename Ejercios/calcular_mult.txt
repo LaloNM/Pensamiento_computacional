@@ -1,0 +1,10 @@
+1 inicio
+2 declarar num1,num2,res (int) 
+3 escribir "ingresa un numero"
+4 asignar num1
+5 escribir "ingresa un numero"
+6 asignar num2
+7 escribir num1, " * ",num2,"="
+8 asignar res
+9 escribir "el resultado es",num1*num2,"tu respuesta es",res=num1*num2
+10 fin
